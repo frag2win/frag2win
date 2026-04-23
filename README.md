@@ -66,8 +66,7 @@ An interactive desktop application exploring urban planning and simulation conce
 - Automation and DevOps practices
 
 ## Beyond Code
-
-When I'm not coding, I enjoy watching web series, listening to music, and traveling.
+When I'm not coding, I'm reading research papers on cosmology or tinkering with FPGA hardware.
 
 ## Get in Touch
 
