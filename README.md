@@ -2,7 +2,7 @@
 
 Full Stack Developer | AI & Automation Enthusiast | Data Analytics
 
-Welcome to my GitHub. I'm a self-taught developer from Pune with a passion for building scalable applications, exploring AI solutions, and solving real-world problems through technology.
+Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for building scalable applications, exploring AI solutions, and solving real-world problems through technology.
 
 ## Professional Overview
 
