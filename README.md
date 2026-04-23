@@ -48,12 +48,6 @@ A lightweight, offline-first file versioning and snapshot system built from scra
 **ATLAS: Multi-Agent AI Debate System**
 A hackathon project that tackles AI bias through structured debate between multiple AI personas. Simulates diverse viewpoints on contentious topics to surface balanced conclusions. Built with Python Flask and Hugging Face API.
 
-**5G Traffic Classifier**
-Developed a client-server system using Node.js and HTTP-2 for optimizing data handling. Incorporated real-time analytics with MongoDB and Grafana to visualize over 100 metrics efficiently.
-
-**Embedded Software Security**
-Automated patch verification for Linux vulnerabilities and implemented Docker-based deployment for scalable integration within security frameworks.
-
 **City Simulator Desktop**
 An interactive desktop application exploring urban planning and simulation concepts.
 
