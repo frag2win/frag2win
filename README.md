@@ -6,7 +6,7 @@ Welcome to my GitHub. I'm a self-taught developer from Pune with a passion for b
 
 ## Professional Overview
 
-I'm currently pursuing a Bachelor's in Engineering (Information Technology) at PES Modern College of Engineering. My work spans full-stack development, machine learning, and data analytics, with a focus on creating impactful solutions that bridge technology and human needs.
+I'm currently pursuing a Bachelor's in Engineering CSE(DS) at Vidyavardhini's College of Engineering & Technology. My work spans full-stack development, machine learning, and data analytics, with a focus on creating impactful solutions that bridge technology and human needs.
 
 ## Core Expertise
 
