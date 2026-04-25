@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | AI & Automation Enthusiast | Data Analytics<br><br>Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for building scalable applications, exploring AI solutions, and solving real-world problems through technology.
+Full Stack Developer | AI & Automation | Data Analytics<br><br>Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for building scalable applications, exploring AI solutions, and solving real-world problems through technology.
 
 
 ## 🌐 Socials:
