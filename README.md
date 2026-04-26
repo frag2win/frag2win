@@ -14,7 +14,7 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 
 ## GitHub Stats
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=frag2win&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=frag2win&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 [![GitHub Stats](https://github-readme-stats.shion.dev/api?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=frag2win&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
