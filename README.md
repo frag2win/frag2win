@@ -52,8 +52,19 @@ I am currently seeking research-oriented internships and professional collaborat
 * **Systems Engineering:** Low-level development, custom runtimes, and high-performance system optimization.
 * **AI Infrastructure:** Retrieval-Augmented Generation (RAG) pipelines, LLM quantization, and persistent memory architectures.
 * **Simulation Physics:** Real-time rendering, shader programming, and agent-based digital twin environments.
+* **Scalable Web Development:** Full-stack engineering, performance-driven UI/UX architectures, and modern backend system design.
 
 If you are working on complex technical challenges or have research-driven opportunities, feel free to reach out.
+
+<p align="left">
+  <a href="mailto:shubhmapawar@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Send_Email-7aa2f7?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shubham-pawar2006/">
+    <img src="https://img.shields.io/badge/Network-LinkedIn-7aa2f7?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open_for_Internships-bb9af7?style=flat-square"/>
+</p>
 
 <p align="left">
   <a href="mailto:shubhmapawar@gmail.com">
