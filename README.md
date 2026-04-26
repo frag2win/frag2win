@@ -10,40 +10,26 @@ I am a self-taught developer based in Mumbai, currently pursuing a B.Tech in Com
 ## Vision & Research
 
 <p align="center">
-  <b>Building Computational Systems at the Intersection of Physics, AI, and Simulation</b>
+Digital Twins → Physics Simulation → AI Systems → Performance Optimization
 </p>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<p align="center">
+<b>End-to-end computational pipeline for building intelligent, real-time environments</b>
+</p>
 
-### Digital Twin Environments
-Modeling urban systems with real-time agent-based data and large-scale simulation pipelines.
+---
 
-</td>
-<td align="center" width="50%">
+**Digital Twin Environments**  
+Modeling urban systems with real-time agent-based simulation  
 
-### Physics Simulations
-Implementing gravitational distortion, accretion models, and shader-based rendering systems.
+**Physics Simulations**  
+Gravitational distortion, shader pipelines, and rendering systems  
 
-</td>
-</tr>
+**Intelligent Architectures**  
+RAG-based AI with persistent memory and automation  
 
-<tr>
-<td align="center" width="50%">
-
-### Intelligent Architectures
-Designing RAG-based AI systems with persistent memory and automation workflows.
-
-</td>
-<td align="center" width="50%">
-
-### Performance Engineering
-Optimizing systems for high-performance Linux environments and real-time execution.
-
-</td>
-</tr>
-</table>
+**Performance Engineering**  
+Optimized execution on high-performance Linux systems  
 
 ## Featured Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-pawar.vercel.app/) [![Black Hole Project](https://img.shields.io/badge/Black_Hole-Project-090909?style=for-the-badge&logo=vercel&logoColor=white)](https://black-hole-xi.vercel.app/)
