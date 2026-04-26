@@ -6,6 +6,9 @@ I am a self-taught developer based in Mumbai, currently pursuing a B.Tech in Com
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://instagram.com/shubham_pawar2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-pawar2006/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhmapawar@gmail.com) 
 
+Vision: Build intelligence beyond humans and simulate reality at every scale — from cities to the universe.  
+Mission: AGI • Simulation • Advanced computation • Unlimited scale
+
 ## Featured Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-pawar.vercel.app/) [![Black Hole Project](https://img.shields.io/badge/Black_Hole-Project-090909?style=for-the-badge&logo=vercel&logoColor=white)](https://black-hole-xi.vercel.app/)
 
