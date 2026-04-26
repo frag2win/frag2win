@@ -12,7 +12,7 @@ Full Stack Developer | AI & Automation | Data Analytics<br><br>Welcome to my Git
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=frag2win&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
-[![WakaTime Stats](https://github-readme-stats.shion.dev/api/wakatime?username=frag2win&theme=tokyonight&layout=compact)](https://wakatime.com/@frag2win)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frag2win&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats
 )
