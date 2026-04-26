@@ -44,3 +44,23 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Yearly Activity](https://github-readme-activity-graph.vercel.app/graph?username=frag2win&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Collaborations & Opportunities
+
+I am currently seeking research-oriented internships and professional collaborations focused on the following domains:
+
+* **Systems Engineering:** Low-level development, custom runtimes, and high-performance system optimization.
+* **AI Infrastructure:** Retrieval-Augmented Generation (RAG) pipelines, LLM quantization, and persistent memory architectures.
+* **Simulation Physics:** Real-time rendering, shader programming, and agent-based digital twin environments.
+
+If you are working on complex technical challenges or have research-driven opportunities, feel free to reach out.
+
+<p align="left">
+  <a href="mailto:shubhmapawar@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Send_Email-7aa2f7?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shubham-pawar2006/">
+    <img src="https://img.shields.io/badge/Network-LinkedIn-7aa2f7?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open_for_Internships-bb9af7?style=flat-square"/>
+</p>
