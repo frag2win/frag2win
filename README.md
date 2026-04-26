@@ -7,11 +7,43 @@ I am a self-taught developer based in Mumbai, currently pursuing a B.Tech in Com
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://instagram.com/shubham_pawar2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-pawar2006/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhmapawar@gmail.com) 
 
 ## Vision & Research
-I aim to build advanced computational systems that bridge physics, AI, and large-scale simulation.
-* **Digital Twin Environments:** Modeling urban systems with real-time agent data.
-* **Physics Simulations:** Implementing gravitational distortion and rendering through shader pipelines.
-* **Intelligent Architectures:** Designing RAG-based AI with persistent memory and automation.
-* **Performance Engineering:** Optimizing for high-performance Linux environments.
+## Vision & Research
+
+<p align="center">
+  <b>Building Computational Systems at the Intersection of Physics, AI, and Simulation</b>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### Digital Twin Environments
+Modeling urban systems with real-time agent-based data and large-scale simulation pipelines.
+
+</td>
+<td align="center" width="50%">
+
+### Physics Simulations
+Implementing gravitational distortion, accretion models, and shader-based rendering systems.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### Intelligent Architectures
+Designing RAG-based AI systems with persistent memory and automation workflows.
+
+</td>
+<td align="center" width="50%">
+
+### Performance Engineering
+Optimizing systems for high-performance Linux environments and real-time execution.
+
+</td>
+</tr>
+</table>
 
 ## Featured Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-pawar.vercel.app/) [![Black Hole Project](https://img.shields.io/badge/Black_Hole-Project-090909?style=for-the-badge&logo=vercel&logoColor=white)](https://black-hole-xi.vercel.app/)
