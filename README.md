@@ -65,12 +65,4 @@ If you are working on complex technical challenges or have research-driven oppor
   <img src="https://img.shields.io/badge/Status-Open_for_Internships-bb9af7?style=flat-square"/>
 </p>
 
-<p align="left">
-  <a href="mailto:shubhmapawar@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Send_Email-7aa2f7?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-pawar2006/">
-    <img src="https://img.shields.io/badge/Network-LinkedIn-7aa2f7?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open_for_Internships-bb9af7?style=flat-square"/>
-</p>
+
