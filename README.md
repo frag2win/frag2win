@@ -5,16 +5,27 @@ I am a self-taught developer based in Mumbai, currently pursuing a B.Tech in Com
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://instagram.com/shubham_pawar2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-pawar2006/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhmapawar@gmail.com) 
-## Vision & Research
+graph TD
+    %% Define Nodes
+    A[Digital Twin Environments]
+    B[Physics-Based Simulation]
+    C[Intelligent AI Architectures]
+    D[High-Performance Computing]
+    
+    Center((<b>Research Vision</b><br/>Real-time & Scalable))
 
-Building systems at the intersection of:
+    %% Connections
+    A --- Center
+    B --- Center
+    C --- Center
+    D --- Center
 
-- Digital Twin Environments  
-- Physics-Based Simulation  
-- Intelligent AI Architectures  
-- High-Performance Computing  
-
-Focused on real-time, scalable, and physics-informed computational systems.
+    %% Styling
+    style Center fill:#1a1b26,stroke:#7aa2f7,stroke-width:4px,color:#fff
+    style A fill:#24283b,stroke:#bb9af7,color:#cfc9c2
+    style B fill:#24283b,stroke:#bb9af7,color:#cfc9c2
+    style C fill:#24283b,stroke:#bb9af7,color:#cfc9c2
+    style D fill:#24283b,stroke:#bb9af7,color:#cfc9c2
 
 ## Featured Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-pawar.vercel.app/) [![Black Hole Project](https://img.shields.io/badge/Black_Hole-Project-090909?style=for-the-badge&logo=vercel&logoColor=white)](https://black-hole-xi.vercel.app/)
