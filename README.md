@@ -7,7 +7,6 @@ I am a self-taught developer based in Mumbai, currently pursuing a B.Tech in Com
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://instagram.com/shubham_pawar2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-pawar2006/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhmapawar@gmail.com) 
 
 ## Vision & Research
-## Vision & Research
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=80&section=header&text=Computational%20Systems%20%7C%20Physics%20%7C%20AI%20%7C%20Simulation&fontColor=00F7FF&fontSize=20&animation=fadeIn"/>
