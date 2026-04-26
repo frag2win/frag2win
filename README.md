@@ -1,5 +1,5 @@
 # About Me
-Full Stack Developer | AI Systems | Simulation Engineering
+Full Stack Developer | AI Systems | Simulation |
 
 I am a self-taught developer based in Mumbai, currently pursuing a B.Tech in Computer Science and Engineering (Data Science) at VCET. My work focuses on building scalable systems, real-time simulations, and intelligent architectures combining software engineering with physics-inspired modeling.
 
