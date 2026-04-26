@@ -7,11 +7,49 @@ I am a self-taught developer based in Mumbai, currently pursuing a B.Tech in Com
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://instagram.com/shubham_pawar2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-pawar2006/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhmapawar@gmail.com) 
 
 ## Vision & Research
-I aim to build advanced computational systems that bridge physics, AI, and large-scale simulation.
-* **Digital Twin Environments:** Modeling urban systems with real-time agent data.
-* **Physics Simulations:** Implementing gravitational distortion and rendering through shader pipelines.
-* **Intelligent Architectures:** Designing RAG-based AI with persistent memory and automation.
-* **Performance Engineering:** Optimizing for high-performance Linux environments.
+## Vision & Research
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=80&section=header&text=Computational%20Systems%20%7C%20Physics%20%7C%20AI%20%7C%20Simulation&fontColor=00F7FF&fontSize=20&animation=fadeIn"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=Digital%20Twin%20Environments&fontColor=00F7FF&fontSize=18"/>
+
+Modeling urban systems with real-time agent-based simulation and large-scale environmental data.
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=Physics%20Simulations&fontColor=00F7FF&fontSize=18"/>
+
+Implementing gravitational distortion, accretion dynamics, and shader-based rendering pipelines.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=Intelligent%20Architectures&fontColor=00F7FF&fontSize=18"/>
+
+Designing RAG-based AI systems with persistent memory, reasoning, and automation workflows.
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=Performance%20Engineering&fontColor=00F7FF&fontSize=18"/>
+
+Optimizing execution for high-performance Linux environments and real-time system constraints.
+
+</td>
+</tr>
+</table>
 
 ## Featured Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-pawar.vercel.app/) [![Black Hole Project](https://img.shields.io/badge/Black_Hole-Project-090909?style=for-the-badge&logo=vercel&logoColor=white)](https://black-hole-xi.vercel.app/)
