@@ -23,7 +23,7 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 [![City Simulator Desktop](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=city-simulator-desktop&theme=tokyonight&show_owner=true)](https://github.com/frag2win/city-simulator-desktop)
 <br/>
 [![Shiksha Setu](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=Shiksha-Setu_-Dynamic-Teacher-Training-Platform&theme=tokyonight&show_owner=true)](https://github.com/frag2win/Shiksha-Setu_-Dynamic-Teacher-Training-Platform)
-[![VCET Edu](https://github-readme-stats.shion.dev/api/pin/?username=CyberCodezilla&repo=vcet.edu.in&theme=tokyonight&show_owner=true)](https://github.com/CyberCodezilla/vcet.edu.in)
+[![Black Hole](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=BLACK-HOLE&theme=tokyonight&show_owner=true)](https://github.com/frag2win/BLACK-HOLE)
 
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.shion.dev/api?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
