@@ -51,6 +51,7 @@ Low-level execution tuning for Arch Linux environments, ensuring 60FPS real-time
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7aa2f7&height=2&width=1000&section=footer"/>
 </p>
+
 ## Featured Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-pawar.vercel.app/) [![Black Hole Project](https://img.shields.io/badge/Black_Hole-Project-090909?style=for-the-badge&logo=vercel&logoColor=white)](https://black-hole-xi.vercel.app/)
 
