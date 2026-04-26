@@ -9,47 +9,48 @@ I am a self-taught developer based in Mumbai, currently pursuing a B.Tech in Com
 ## Vision & Research
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=80&section=header&text=Computational%20Systems%20%7C%20Physics%20%7C%20AI%20%7C%20Simulation&fontColor=00F7FF&fontSize=20&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=100&section=header&text=Computational%20Systems%20%7C%20Physics%20%7C%20AI%20%7C%20Simulation&fontColor=7aa2f7&fontSize=22&animation=fadeIn"/>
 </p>
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=Digital%20Twin%20Environments&fontColor=00F7FF&fontSize=18"/>
-
-Modeling urban systems with real-time agent-based simulation and large-scale environmental data.
+### Digital Twin Environments
+**Objective:** Real-time urban modeling.  
+Focusing on agent-based simulation, LOD optimization, and environmental data ingestion for large-scale spatial twins.
 
 </td>
+<td align="left" width="50%">
 
-<td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=Physics%20Simulations&fontColor=00F7FF&fontSize=18"/>
-
-Implementing gravitational distortion, accretion dynamics, and shader-based rendering pipelines.
+### Physics Simulations
+**Objective:** Gravitational Dynamics.  
+Implementing accretion disk dynamics, light-bending shaders, and deterministic physics pipelines in Three.js.
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=Intelligent%20Architectures&fontColor=00F7FF&fontSize=18"/>
-
-Designing RAG-based AI systems with persistent memory, reasoning, and automation workflows.
+### Intelligent Architectures
+**Objective:** Cognitive Automation.  
+Designing RAG-based systems with vector memory, cross-tool reasoning, and automated LLM workflows.
 
 </td>
+<td align="left" width="50%">
 
-<td align="center" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=Performance%20Engineering&fontColor=00F7FF&fontSize=18"/>
-
-Optimizing execution for high-performance Linux environments and real-time system constraints.
+### Performance Engineering
+**Objective:** System Optimization.  
+Low-level execution tuning for Arch Linux environments, ensuring 60FPS real-time rendering and low-latency I/O.
 
 </td>
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7aa2f7&height=2&width=1000&section=footer"/>
+</p>
 ## Featured Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-pawar.vercel.app/) [![Black Hole Project](https://img.shields.io/badge/Black_Hole-Project-090909?style=for-the-badge&logo=vercel&logoColor=white)](https://black-hole-xi.vercel.app/)
 
