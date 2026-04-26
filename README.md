@@ -65,4 +65,8 @@ If you are working on complex technical challenges or have research-driven oppor
   <img src="https://img.shields.io/badge/Status-Open_for_Internships-bb9af7?style=flat-square"/>
 </p>
 
+---
 
+## Live Activity Test
+
+Last update test: 2026-04-26
