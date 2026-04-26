@@ -18,12 +18,20 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 ## Development Setup
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Notable Builds
-[![OFS](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=OFS&theme=tokyonight&show_owner=true)](https://github.com/frag2win/OFS)
-[![City Simulator Desktop](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=city-simulator-desktop&theme=tokyonight&show_owner=true)](https://github.com/frag2win/city-simulator-desktop)
+## Production Deployment
+**Vidyavardhini's College of Engineering and Technology (Real-Time Deployment)**<br>
+*Lead Developer responsible for the frontend architecture and UI/UX modernization of the official college platform.*
 <br/>
+[![VCET Edu](https://github-readme-stats.shion.dev/api/pin/?username=CyberCodezilla&repo=vcet.edu.in&theme=tokyonight&show_owner=true)](https://github.com/CyberCodezilla/vcet.edu.in)
+
+## Hackathons & Open Source
+[![MUM Hackathon](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=MUM-hackthon&theme=tokyonight&show_owner=true)](https://github.com/frag2win/MUM-hackthon)
 [![Shiksha Setu](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=Shiksha-Setu_-Dynamic-Teacher-Training-Platform&theme=tokyonight&show_owner=true)](https://github.com/frag2win/Shiksha-Setu_-Dynamic-Teacher-Training-Platform)
+<br/>
+[![OFS](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=OFS&theme=tokyonight&show_owner=true)](https://github.com/frag2win/OFS)
 [![Black Hole](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=BLACK-HOLE&theme=tokyonight&show_owner=true)](https://github.com/frag2win/BLACK-HOLE)
+<br/>
+[![City Simulator Desktop](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=city-simulator-desktop&theme=tokyonight&show_owner=true)](https://github.com/frag2win/city-simulator-desktop)
 
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.shion.dev/api?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
