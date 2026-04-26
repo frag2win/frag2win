@@ -12,6 +12,7 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
   Retrieval-Augmented Generation (RAG) pipelines and LLM quantization.
 * **Vision:** Build intelligence beyond humans and simulate reality at every scale — from cities to the universe. 
 * **Mission:** AGI • Simulation • Advanced computation •
+* I know it sounds impossible — that’s exactly why I’m building it.
 * **Featured Links:**<br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-pawar.vercel.app/) [![Black Hole](https://img.shields.io/badge/Project-Black_Hole-090909?style=for-the-badge&logo=vercel&logoColor=white)](https://black-hole-xi.vercel.app/)
 
