@@ -18,6 +18,13 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 ## Development Setup
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Notable Builds
+[![OFS](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=OFS&theme=tokyonight&show_owner=true)](https://github.com/frag2win/OFS)
+[![City Simulator Desktop](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=city-simulator-desktop&theme=tokyonight&show_owner=true)](https://github.com/frag2win/city-simulator-desktop)
+<br/>
+[![Shiksha Setu](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=Shiksha-Setu_-Dynamic-Teacher-Training-Platform&theme=tokyonight&show_owner=true)](https://github.com/frag2win/Shiksha-Setu_-Dynamic-Teacher-Training-Platform)
+[![VCET Edu](https://github-readme-stats.shion.dev/api/pin/?username=CyberCodezilla&repo=vcet.edu.in&theme=tokyonight&show_owner=true)](https://github.com/CyberCodezilla/vcet.edu.in)
+
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.shion.dev/api?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=frag2win&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
