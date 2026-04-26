@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Systems+Engineer;Simulation+%26+Digital+Twin+Builder;Building+Real-Time+Physics+Environments" />
 </p>
-# About Me
-Full Stack Developer | AI Systems | Simulation Engineering
-
 I am a self-taught developer based in Mumbai, currently pursuing a B.Tech in Computer Science and Engineering (Data Science) at VCET. My work focuses on building scalable systems, real-time simulations, and intelligent architectures combining software engineering with physics-inspired modeling.
 
 ## Socials
