@@ -8,49 +8,9 @@ I am a self-taught developer based in Mumbai, currently pursuing a B.Tech in Com
 
 ## Vision & Research
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=100&section=header&text=Computational%20Systems%20%7C%20Physics%20%7C%20AI%20%7C%20Simulation&fontColor=7aa2f7&fontSize=22&animation=fadeIn"/>
-</p>
+Vision: Scalable real-time city simulation with terrain, infrastructure, and high-fidelity rendering.  
+Mission: Large-scale rendering • Infrastructure modeling • Real-time performance • Realistic UI
 
-<table align="center">
-<tr>
-<td align="left" width="50%">
-
-### Digital Twin Environments
-**Objective:** Real-time urban modeling.  
-Focusing on agent-based simulation, LOD optimization, and environmental data ingestion for large-scale spatial twins.
-
-</td>
-<td align="left" width="50%">
-
-### Physics Simulations
-**Objective:** Gravitational Dynamics.  
-Implementing accretion disk dynamics, light-bending shaders, and deterministic physics pipelines in Three.js.
-
-</td>
-</tr>
-
-<tr>
-<td align="left" width="50%">
-
-### Intelligent Architectures
-**Objective:** Cognitive Automation.  
-Designing RAG-based systems with vector memory, cross-tool reasoning, and automated LLM workflows.
-
-</td>
-<td align="left" width="50%">
-
-### Performance Engineering
-**Objective:** System Optimization.  
-Low-level execution tuning for Arch Linux environments, ensuring 60FPS real-time rendering and low-latency I/O.
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7aa2f7&height=2&width=1000&section=footer"/>
-</p>
 
 ## Featured Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-pawar.vercel.app/) [![Black Hole Project](https://img.shields.io/badge/Black_Hole-Project-090909?style=for-the-badge&logo=vercel&logoColor=white)](https://black-hole-xi.vercel.app/)
