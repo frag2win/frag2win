@@ -38,12 +38,12 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 [![City Simulator Desktop](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=city-simulator-desktop&theme=tokyonight&show_owner=true)](https://github.com/frag2win/city-simulator-desktop)
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=frag2win&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=frag2win&theme=tokyonight&hide_border=false&cache_seconds=1800&v=1)](https://git.io/streak-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=1)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![Yearly Activity](https://github-readme-activity-graph.vercel.app/graph?username=frag2win&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yearly Activity](https://github-readme-activity-graph.vercel.app/graph?username=frag2win&theme=tokyo-night&area=true&hide_border=true&cache_seconds=1800&v=1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Collaborations & Opportunities
 
