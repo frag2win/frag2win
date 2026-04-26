@@ -9,16 +9,18 @@ I am a self-taught developer based in Mumbai, currently pursuing a B.Tech in Com
 I aim to build advanced computational systems that bridge physics, AI, and large-scale simulation.
 
 - Digital twin environments  
-- Physics-based simulations (space, urban systems)  
-- AI-driven architectures and memory systems  
-- High-performance optimized software  
+- Physics-based simulations  
+- AI-driven architectures  
+- High-performance optimized systems  
 
 ---
 
 ## Socials
-[Instagram](https://instagram.com/shubham_pawar2006) • 
-[LinkedIn](https://www.linkedin.com/in/shubham-pawar2006/) • 
-[Email](mailto:shubhmapawar@gmail.com)
+<p>
+  <a href="https://instagram.com/shubham_pawar2006"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shubham-pawar2006/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shubhmapawar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -31,51 +33,96 @@ I aim to build advanced computational systems that bridge physics, AI, and large
 
 ## Featured Work
 
-**Black Hole Simulation**  
+### Black Hole Simulation
 Real-time gravitational distortion using shader pipelines and physics-inspired modeling  
 
-**City Simulator Desktop**  
-60–70 km rendering, agent-based traffic, LOD optimization, terrain systems  
+### City Simulator Desktop
+60–70 km rendering, agent-based systems, LOD optimization, terrain modeling  
 
-**AI Assistant (Mini-JARVIS)**  
-Dynamic memory, RAG pipeline, automation workflows  
+### AI Assistant (Mini-JARVIS)
+Dynamic memory, RAG pipelines, automation workflows  
 
 ---
 
-## Links
-[Portfolio](https://shubham-pawar.vercel.app/) • 
-[Black Hole Project](https://black-hole-xi.vercel.app/)
+## Featured Links
+<p>
+  <a href="https://shubham-pawar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-171717?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://black-hole-xi.vercel.app/">
+    <img src="https://img.shields.io/badge/Black_Hole-Project-090909?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## Tech Stack
-C • JavaScript • TypeScript • Python • HTML • CSS • Three.js • Electron • FastAPI • MongoDB • MySQL • Redis • GraphQL • PyTorch • TensorFlow • Pandas • NumPy • Matplotlib  
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+</p>
 
 ---
 
 ## Engineering Focus
 - System Design  
-- Real-time Simulation  
+- Real-time Rendering & Simulation  
 - AI Systems & LLM Optimization  
 - Performance Engineering  
 
 ---
 
-## Setup
-Arch Linux • Neovim • Git  
+## Development Setup
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+</p>
 
 ---
 
-## Production
-**VCET College Platform**  
-Frontend architecture and UI/UX modernization  
-https://github.com/CyberCodezilla/vcet.edu.in  
+## Production Deployment
+Vidyavardhini's College of Engineering and Technology  
+
+Lead Developer responsible for frontend architecture and UI/UX modernization  
+
+<p>
+  <a href="https://github.com/CyberCodezilla/vcet.edu.in">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=CyberCodezilla&repo=vcet.edu.in&theme=tokyonight&show_owner=true"/>
+  </a>
+</p>
 
 ---
 
 ## Projects
-MUM Hackathon • Shiksha Setu • OFS • Black Hole • City Simulator  
-https://github.com/frag2win  
+<p>
+  <a href="https://github.com/frag2win/MUM-hackthon">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=MUM-hackthon&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/frag2win/Shiksha-Setu_-Dynamic-Teacher-Training-Platform">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=Shiksha-Setu_-Dynamic-Teacher-Training-Platform&theme=tokyonight"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/frag2win/OFS">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=OFS&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/frag2win/BLACK-HOLE">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=BLACK-HOLE&theme=tokyonight"/>
+  </a>
+</p>
 
 ---
 
@@ -94,4 +141,4 @@ https://github.com/frag2win
 ---
 
 ## Opportunities
-Open to internships, research collaborations, and open-source work.  
+Open to internships, research collaborations, and open-source contributions.
