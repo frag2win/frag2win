@@ -66,10 +66,11 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 
 ## Collaborations & Opportunities
 
-Interested in:
-- Scalable web systems
-- Systems engineering and performance optimization
-- AI infrastructure and RAG pipelines
-- Simulation and real-time rendering
+## Collaborations & Opportunities
+I am currently seeking research-oriented internships and professional collaborations focused on the following domains:
+* **Scalable Web Development:** Full-stack engineering, performance-driven UI/UX architectures, and modern backend system design.
+* **Systems Engineering:** Low-level development, custom runtimes, and high-performance system optimization.
+* **AI Infrastructure:** Retrieval-Augmented Generation (RAG) pipelines, LLM quantization, and persistent memory architectures.
+* **Simulation Physics:** Real-time rendering, shader programming, and agent-based digital twin environments.
 
-Open to research internships and technical collaborations.
+If you are working on complex technical challenges or have research-driven opportunities, feel free to reach out.
