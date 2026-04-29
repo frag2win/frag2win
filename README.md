@@ -39,7 +39,7 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.shion.dev/api?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=300&v=1)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=frag2win&theme=tokyonight&hide_border=false&cache_seconds=300&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=frag2win&theme=tokyonight)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=frag2win&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=300&v=1)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
