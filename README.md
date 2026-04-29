@@ -53,16 +53,13 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frag2win&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=frag2win&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frag2win&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=frag2win&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frag2win&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frag2win&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frag2win&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frag2win&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
