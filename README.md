@@ -8,12 +8,12 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 
 ## Education & Current Focus
 * **Education:** Currently in my second year pursuing a B.Tech in Computer Science and Engineering (Data Science) at VCET, Mumbai.
-* **Research & Development:** Actively exploring low-level systems engineering, building custom deterministic architectures, and optimizing
-  Retrieval-Augmented Generation (RAG) pipelines and LLM quantization.
+* **Research & Development:** Actively exploring low-level systems engineering, building custom deterministic architectures, and optimizing Retrieval-Augmented Generation (RAG) pipelines and LLM quantization.
 * **Vision:** Build intelligence beyond humans and simulate reality at every scale — from cities to the universe. 
 * **Mission:** AGI • Simulation • Advanced computation •
 * I know it sounds impossible — that’s exactly why I’m building it.
-* **Featured Links:**<br>
+
+**Featured Links:**<br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-pawar.vercel.app/) [![Black Hole](https://img.shields.io/badge/Project-Black_Hole-090909?style=for-the-badge&logo=vercel&logoColor=white)](https://black-hole-xi.vercel.app/)
 
 ## Tech Stack
@@ -25,43 +25,37 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 ## Production Deployment
 **Vidyavardhini's College of Engineering and Technology (Real-Time Deployment)**<br>
 *Lead Developer responsible for the frontend architecture and UI/UX modernization of the official college platform.*
-<br/>
-[![VCET Edu](https://github-readme-stats.shion.dev/api/pin/?username=CyberCodezilla&repo=vcet.edu.in&theme=tokyonight&show_owner=true)](https://github.com/CyberCodezilla/vcet.edu.in)
+
+<p align="center">
+  <a href="https://github.com/CyberCodezilla/vcet.edu.in">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberCodezilla&repo=vcet.edu.in&theme=tokyonight&show_owner=true" alt="VCET Edu" />
+  </a>
+</p>
 
 ## Hackathons & Open Source
 
-[![MUM Hackathon](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=MUM-hackthon&theme=tokyonight&show_owner=true)](https://github.com/frag2win/MUM-hackthon)
-[![Shiksha Setu](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=Shiksha-Setu_-Dynamic-Teacher-Training-Platform&theme=tokyonight&show_owner=true)](https://github.com/frag2win/Shiksha-Setu_-Dynamic-Teacher-Training-Platform)
-<br/>
-[![OFS](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=OFS&theme=tokyonight&show_owner=true)](https://github.com/frag2win/OFS)
-[![Black Hole](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=BLACK-HOLE&theme=tokyonight&show_owner=true)](https://github.com/frag2win/BLACK-HOLE)
-<br/>
-[![City Simulator Desktop](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=city-simulator-desktop&theme=tokyonight&show_owner=true)](https://github.com/frag2win/city-simulator-desktop)
+<p align="center">
+  <a href="https://github.com/frag2win/MUM-hackthon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frag2win&repo=MUM-hackthon&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/frag2win/Shiksha-Setu_-Dynamic-Teacher-Training-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frag2win&repo=Shiksha-Setu_-Dynamic-Teacher-Training-Platform&theme=tokyonight&show_owner=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/frag2win/OFS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frag2win&repo=OFS&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/frag2win/BLACK-HOLE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frag2win&repo=BLACK-HOLE&theme=tokyonight&show_owner=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/frag2win/city-simulator-desktop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frag2win&repo=city-simulator-desktop&theme=tokyonight&show_owner=true" /></a>
+</p>
+
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frag2win&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=frag2win&theme=tokyonight&hide_border=true&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frag2win&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=frag2win&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frag2win&layout=compact&theme=tokyonight&hide_border=true" /> 
-</p>
-<br/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frag2win&theme=tokyo-night&hide_border=true" />
-</p>
-<br/>
----
-
-## Collaborations & Opportunities
-
-Interested in:
-- Scalable web systems
-- Systems engineering and performance optimization
-- AI infrastructure and RAG pipelines
-- Simulation and real-time rendering
-
-Open to research internships and technical collaborations.
+  <img src="https://github-readme-
