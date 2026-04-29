@@ -39,7 +39,7 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=frag2win&theme=tokyonight&hide_border=true&cache_seconds=86400)e)
+![GitHub Streak](https://streak-stats.demolab.com?user=frag2win&theme=tokyonight&hide_border=true&cache_seconds=86400))
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frag2win&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
