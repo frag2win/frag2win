@@ -65,8 +65,6 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 ---
 
 ## Collaborations & Opportunities
-
-## Collaborations & Opportunities
 I am currently seeking research-oriented internships and professional collaborations focused on the following domains:
 * **Scalable Web Development:** Full-stack engineering, performance-driven UI/UX architectures, and modern backend system design.
 * **Systems Engineering:** Low-level development, custom runtimes, and high-performance system optimization.
