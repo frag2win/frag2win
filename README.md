@@ -38,7 +38,7 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 [![City Simulator Desktop](https://github-readme-stats.shion.dev/api/pin/?username=frag2win&repo=city-simulator-desktop&theme=tokyonight&show_owner=true)](https://github.com/frag2win/city-simulator-desktop)
 
 ## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=frag2win&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frag2win&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frag2win&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frag2win&layout=compact&theme=tokyonight&hide_border=true)
