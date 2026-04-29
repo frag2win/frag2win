@@ -58,4 +58,21 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 </p>
 
 <p align="center">
-  <img src="https://github-readme-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frag2win&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frag2win&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## Collaborations & Opportunities
+
+Interested in:
+- Scalable web systems
+- Systems engineering and performance optimization
+- AI infrastructure and RAG pipelines
+- Simulation and real-time rendering
+
+Open to research internships and technical collaborations.
