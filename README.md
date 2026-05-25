@@ -28,24 +28,24 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 
 <p align="center">
   <a href="https://github.com/CyberCodezilla/vcet.edu.in">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberCodezilla&repo=vcet.edu.in&theme=tokyonight&show_owner=true" alt="VCET Edu" />
+    <img src="https://github-readme-stats-frag2win.vercel.app/api/pin/?username=CyberCodezilla&repo=vcet.edu.in&theme=tokyonight&show_owner=true" alt="VCET Edu" />
   </a>
 </p>
 
 ## Hackathons & Open Source
 
 <p align="center">
-  <a href="https://github.com/frag2win/MUM-hackthon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frag2win&repo=MUM-hackthon&theme=tokyonight&show_owner=true" /></a>
-  <a href="https://github.com/frag2win/Shiksha-Setu_-Dynamic-Teacher-Training-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frag2win&repo=Shiksha-Setu_-Dynamic-Teacher-Training-Platform&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/frag2win/MUM-hackthon"><img src="https://github-readme-stats-frag2win.vercel.app/api/pin/?username=frag2win&repo=MUM-hackthon&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/frag2win/Shiksha-Setu_-Dynamic-Teacher-Training-Platform"><img src="https://github-readme-stats-frag2win.vercel.app/api/pin/?username=frag2win&repo=Shiksha-Setu_-Dynamic-Teacher-Training-Platform&theme=tokyonight&show_owner=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/frag2win/OFS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frag2win&repo=OFS&theme=tokyonight&show_owner=true" /></a>
-  <a href="https://github.com/frag2win/BLACK-HOLE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frag2win&repo=BLACK-HOLE&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/frag2win/OFS"><img src="https://github-readme-stats-frag2win.vercel.app/api/pin/?username=frag2win&repo=OFS&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/frag2win/BLACK-HOLE"><img src="https://github-readme-stats-frag2win.vercel.app/api/pin/?username=frag2win&repo=BLACK-HOLE&theme=tokyonight&show_owner=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/frag2win/city-simulator-desktop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frag2win&repo=city-simulator-desktop&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/frag2win/city-simulator-desktop"><img src="https://github-readme-stats-frag2win.vercel.app/api/pin/?username=frag2win&repo=city-simulator-desktop&theme=tokyonight&show_owner=true" /></a>
 </p>
 
 ---
@@ -53,9 +53,9 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frag2win&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-frag2win.vercel.app/api?username=frag2win&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=frag2win&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frag2win&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" /> 
+  <img src="https://github-readme-stats-frag2win.vercel.app/api/top-langs/?username=frag2win&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" /> 
 </p>
 
 <p align="center">
