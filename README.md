@@ -46,6 +46,7 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 
 <p align="center">
   <a href="https://github.com/frag2win/city-simulator-desktop"><img src="https://github-readme-stats-frag2win.vercel.app/api/pin/?username=frag2win&repo=city-simulator-desktop&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/frag2win/pocketmind"><img src="https://github-readme-stats-frag2win.vercel.app/api/pin/?username=frag2win&repo=pocketmind&theme=tokyonight&show_owner=true" /></a>
 </p>
 
 ---
