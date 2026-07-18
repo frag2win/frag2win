@@ -36,7 +36,7 @@ Welcome to my GitHub. I'm a self-taught developer from Mumbai with a passion for
 
 <p align="center">
   <a href="https://github.com/frag2win/MUM-hackthon"><img src="https://github-readme-stats-frag2win.vercel.app/api/pin/?username=frag2win&repo=MUM-hackthon&theme=tokyonight&show_owner=true" /></a>
-  <a href="https://github.com/frag2win/Shiksha-Setu_-Dynamic-Teacher-Training-Platform"><img src="https://github-readme-stats-frag2win.vercel.app/api/pin/?username=frag2win&repo=Shiksha-Setu_-Dynamic-Teacher-Training-Platform&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/frag2win/GITLINK"><img src="https://github-readme-stats-frag2win.vercel.app/api/pin/?username=frag2win&repo=GITLINK&theme=tokyonight&show_owner=true" /></a>
 </p>
 
 <p align="center">
